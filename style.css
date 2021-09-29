@@ -12,3 +12,18 @@ html {
 .navbar {
   z-index: -1;
 }
+
+.btn-primary {
+   background: #EBF0EE;
+   border-color: #ebf0ee;
+     
+}
+
+.btn-primary:hover {
+  background: #EBF0EE;
+  border-color: #ebf0ee;
+}
+
+.ruby-btn {
+  white-space: nowrap;
+}
