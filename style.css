@@ -1,0 +1,29 @@
+html {
+  font-size: 100%;
+}
+
+.first-page {
+  background-image: url(./src/resources/Header-llustration-desktop.svg);
+  background-size: 100vw;
+  background-repeat: repeat-y;
+  z-index: 1;
+}
+
+.navbar {
+  z-index: -1;
+}
+
+.btn-primary {
+   background: #EBF0EE;
+   border-color: #ebf0ee;
+     
+}
+
+.btn-primary:hover {
+  background: #EBF0EE;
+  border-color: #ebf0ee;
+}
+
+.ruby-btn {
+  white-space: nowrap;
+}
